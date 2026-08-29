@@ -16,4 +16,4 @@ Programa simples que lê dois números inteiros informados pelo usuário e exibe
 
 ---
 
-Mais exercícios serão adicionados conforme meus estudos avançam. 🚀
+Mais ainda está por vir!
