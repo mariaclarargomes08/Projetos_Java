@@ -16,7 +16,7 @@ Programa simples que lê dois números inteiros informados pelo usuário e exibe
 
 
 ### Programa de Estudos sobre Interfaces
-📄 [`src/Veiculos/ClassePrincipal.java`](./src/Veiculos/ClassePrincipal.java)
+📄[Veículos](ex_Interfaces/NomeDaPasta/ClassePrincipal.java)
 
 Programa que simula veículos de passeio e SUV. Lê pelo teclado o ID e o combustível inicial de cada veículo, reabastece o tanque respeitando a capacidade máxima (50 L para passeio e 90 L para SUV) e simula o veículo em movimento.
 
