@@ -5,7 +5,7 @@ Repositório dedicado aos meus estudos e exercícios em **Java**, desenvolvidos 
 ## 📁 Exercícios
 
 ### Calculadora de Operações Básicas
-📄 [`src/Exercicios/ProgramaPrincipal.java`](./src/Exercicios/ProgramaPrincipal.java)
+📄 [Link](ProgramaPrincipal.java)
 
 Programa simples que lê dois números inteiros informados pelo usuário e exibe o resultado das quatro operações matemáticas básicas: soma, subtração, multiplicação e divisão.
 
